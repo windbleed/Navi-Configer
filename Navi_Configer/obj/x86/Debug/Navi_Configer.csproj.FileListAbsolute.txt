@@ -1,0 +1,10 @@
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\bin\Debug\Navi_Configer.exe.config
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\bin\Debug\Navi_Configer.exe
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\bin\Debug\Navi_Configer.pdb
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.Form1.resources
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.Properties.Resources.resources
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.csproj.GenerateResource.Cache
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.exe.licenses
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.exe
+E:\works\Sea_Feed\NAVI_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.pdb
+E:\works\Sea_Feed\Navi_Configer\Navi_Configer\Navi_Configer\obj\x86\Debug\Navi_Configer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoardConfig>
+  <BoardID>2</BoardID>
+  <BoardType>2</BoardType>
+  <LampEnable>
+    <LampEnable_0>255</LampEnable_0>
+    <LampEnable_1>255</LampEnable_1>
+    <LampEnable_2>255</LampEnable_2>
+  </LampEnable>
+  <LampOnStatus>
+    <LampOn_0>240</LampOn_0>
+    <LampOn_1>15</LampOn_1>
+    <LampOn_2>0</LampOn_2>
+  </LampOnStatus>
+  <LampColor>
+    <LampColor1>red</LampColor1>
+    <LampColor2>yellow</LampColor2>
+    <LampColor3>green</LampColor3>
+    <LampColor4>red</LampColor4>
+    <LampColor5>purple</LampColor5>
+    <LampColor6>purple</LampColor6>
+    <LampColor7>purple</LampColor7>
+    <LampColor8>purple</LampColor8>
+    <LampColor9>blue</LampColor9>
+    <LampColor10>blue</LampColor10>
+    <LampColor11>blue</LampColor11>
+    <LampColor12>blue</LampColor12>
+    <LampColor13>white</LampColor13>
+    <LampColor14>white</LampColor14>
+    <LampColor15>white</LampColor15>
+    <LampColor16>white</LampColor16>
+    <LampColor17>blue</LampColor17>
+    <LampColor18>blue</LampColor18>
+    <LampColor19>blue</LampColor19>
+    <LampColor20>blue</LampColor20>
+  </LampColor>
+  <LampFlashStatus>0</LampFlashStatus>
+</BoardConfig>
